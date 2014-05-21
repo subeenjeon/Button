@@ -1,0 +1,35 @@
+html, body {
+	margin: 0;
+	width: 100%;
+	height: 100%;
+}
+#stage {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+
+.view {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+
+button {
+	width: 50%;
+	height: 10%;
+	margin: 5%;
+}
+
+#view0 {
+	background: url(https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn2/t31.0-8/10380133_568568543261420_8697294306045287804_o.jpg);
+}
+#view1 {
+	background: url(https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/t31.0-8/10379669_568568549928086_534783499917832972_o.jpg);
+}
+#view2 {
+	background-color: ivory;
+}
+#view3 {
+	background-color: pink;
+}
