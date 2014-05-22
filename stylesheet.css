@@ -22,10 +22,15 @@ button {
 }
 
 #view0 {
-	background: url(https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn2/t31.0-8/10380133_568568543261420_8697294306045287804_o.jpg);
+{
+width: 100%;
+   background: url(https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-prn2/t1.0-9/q71/s480x480/10378165_568988306552777_8156775228060327472_n.jpg)  no-repeat; -webkit-background-size: contain;-moz-background-size: contain;-o-background-size: contain;background-size: contain;
+background-attachment: scroll; 
 }
 #view1 {
-	background: url(https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/t31.0-8/10379669_568568549928086_534783499917832972_o.jpg);
+width: 100%;
+   background: url(https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-frc3/t31.0-8/10286957_568988309886110_2564467610008240119_o.jpg)  no-repeat; -webkit-background-size: contain;-moz-background-size: contain;-o-background-size: contain;background-size: contain;
+background-attachment: scroll; 
 }
 #view2 {
 	background-color: ivory;
